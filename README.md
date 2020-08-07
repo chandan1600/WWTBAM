@@ -16,3 +16,6 @@ The second part of the game was a GUI for the game.
 The GUI is not fully complete yet. It works by offering four buttons. 
 The question is displayed in a text box. 
 If the user clicks the right button they may proceed.
+
+This was a basic game, designed on the weekends to gain experience with
+reading and writing to files, using GUI and incorporating an SQL database. 
